@@ -1,5 +1,9 @@
-## Hi there 👋
+<img width="2172" height="724" alt="banner" src="https://github.com/user-attachments/assets/963ff901-9721-4ab3-86ca-3853ea5cc21d" />
 
+
+## Sophia Lee
+
+Finance & Data Analytics | Python, Pandas, R, Stata | AI Evaluation
 <!--
 **slee32323/slee32323** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
