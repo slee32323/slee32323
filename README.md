@@ -2,19 +2,19 @@
 
 
 ## Sophia Lee
+Finance & Quantitative Analytics | Data Analysis | AI Evaluation
 
-Finance & Quantitative Analytics Portfolio
-<!--
-**slee32323/slee32323** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Finance and analytics professional focused on transforming data into clear, actionable business insights.
 
-Here are some ideas to get you started:
+### Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Python • Pandas • Matplotlib • R • Stata • SQL • Advanced Excel**
+
+### Portfolio Areas
+
+- Financial Analysis
+- Quantitative Analytics
+- Business & Data Analysis
+- Data Visualization
+- Statistical Analysis
+- AI Evaluation & Localization QA
