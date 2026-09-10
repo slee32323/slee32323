@@ -3,7 +3,7 @@
 
 ## Sophia Lee
 
-Finance & Data Analytics | Python, Pandas, R, Stata | AI Evaluation
+Finance & Quantitative Analytics Portfolio
 <!--
 **slee32323/slee32323** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
